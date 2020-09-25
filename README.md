@@ -5,5 +5,5 @@ Here we analyize how bitcoins move between buyers and sellers and use graph theo
 
 
 ### Graph Theory
-<img  src= Grpahs.JPG, alt = "graphs" width="300" height="300">
+<img  src= https://github.com/RCSimpson/Bitcoin-Trust-Network/blob/master/images/graphs.JPG, alt = "graphs" width="300" height="300">
 ### Extracting information about the Dynamics
