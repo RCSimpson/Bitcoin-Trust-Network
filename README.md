@@ -5,6 +5,9 @@ Here we analyize how bitcoins move between buyers and sellers and use graph theo
 
 
 ### Graph Theory
+
+Below we see the first iterations of the network evolving. We see that we start with some intial transactions and then gradualy add interactions to the network over time mappping out economic relationships with different users temporally. 
+
 <img src= "https://github.com/RCSimpson/Bitcoin-Trust-Network/blob/master/images/graphs.JPG">
 
 ### Extracting information about the Dynamics
